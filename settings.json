@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "cloudcraftv2.aternos.me",
-    "port":  41912,
+    "port": 41912,
     "version": "",
     "try-creative": false
   },
